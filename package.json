@@ -1,0 +1,22 @@
+{
+  "name": "zzowo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "minecraft-data": "^2.91.1",
+    "mineflayer": "^3.9.0",
+    "mineflayer-pathfinder": "^1.7.0",
+    "mineflayer-pvp": "^1.0.2",
+    "mineflayer-tps": "^1.0.1",
+    "mineflayer-web-inventory": "^1.6.1",
+    "perf_hooks": "0.0.1",
+    "prismarine-entity": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
